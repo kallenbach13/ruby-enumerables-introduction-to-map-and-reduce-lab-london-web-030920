@@ -31,5 +31,8 @@ end
 
 def map_to_square
   counter = 0
+  while
+  
+  end
 end
 
