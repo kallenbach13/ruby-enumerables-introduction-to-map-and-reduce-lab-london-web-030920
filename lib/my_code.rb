@@ -45,5 +45,6 @@ end
 
 def reduce_to_total(source_array, starting_point)
   counter = 0
-  pp starting_point
+  binding.pry
+  starting_point
 end
