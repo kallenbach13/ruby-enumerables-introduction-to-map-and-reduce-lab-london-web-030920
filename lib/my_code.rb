@@ -13,7 +13,10 @@ def map_to_no_change(source_array)
   counter = 0
   pointless_array = []
   while counter < source_array.length
-  pointless_array << source_array
+  pointless_array << source_array[counter]
+  counter += 1
+  end
+  pointless_array
 end
 
 
