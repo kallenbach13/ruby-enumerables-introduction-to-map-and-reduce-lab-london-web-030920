@@ -29,10 +29,11 @@ def map_to_double(source_array)
   double_array
 end
 
-def map_to_square
+def map_to_square(source_array)
   counter = 0
-  while
+  while counter < 
   
+  counter += 1
   end
 end
 
