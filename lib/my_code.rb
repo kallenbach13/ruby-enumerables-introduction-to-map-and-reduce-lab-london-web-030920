@@ -31,6 +31,8 @@ end
 
 def map_to_square(source_array)
   counter = 0
+  square_array = []
+  
   while counter < 
   
   counter += 1
