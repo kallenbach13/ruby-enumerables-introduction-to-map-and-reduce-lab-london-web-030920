@@ -29,5 +29,7 @@ def map_to_double(source_array)
   double_array
 end
 
-m
+def map_to_square
+  counter = 0
+end
 
