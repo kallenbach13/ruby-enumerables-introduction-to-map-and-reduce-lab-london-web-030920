@@ -57,5 +57,5 @@ end
 def reduce_to_all_true(source_array)
   counter = 0
   
-  while counter
+  while counter < source_array
 end
