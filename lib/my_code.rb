@@ -40,5 +40,6 @@ def map_to_square(source_array)
   square_array << source_array[counter] ** 2
   counter += 1
   end
+  square_array
 end
 
