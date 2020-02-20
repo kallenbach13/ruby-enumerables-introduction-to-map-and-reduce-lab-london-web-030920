@@ -19,4 +19,11 @@ def map_to_no_change(source_array)
   pointless_array
 end
 
+def map_to_double(source_array)
+  counter = 0
+  double_array = []
+  while counter < source_array.length
+  
+end
+
 
