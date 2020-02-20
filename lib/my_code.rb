@@ -23,9 +23,10 @@ def map_to_double(source_array)
   counter = 0
   double_array = []
   while counter < source_array.length
-  double_array
+  double_array << source_array[counter] + source_array[counter]
   counter += 1
   end
+  double_array
 end
 
 
