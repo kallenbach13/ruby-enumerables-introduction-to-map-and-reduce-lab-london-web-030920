@@ -56,7 +56,9 @@ end
 
 def reduce_to_all_true(source_array)
   source_array.all?
-  if { |x| } x
+  if { |x| } x == true
+    source_array = true
+  else source_array
 end
 
 def reduce_to_any_true(source_array)
