@@ -49,7 +49,7 @@ def reduce_to_total(source_array, starting_point)
   
   while counter < source_array.length
    if starting_point
-     sourc
+     total += source_array[counter] + starting_point
    end
   total += source_array[counter]
   counter += 1
