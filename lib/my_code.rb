@@ -8,3 +8,7 @@ def map_to_negativize(source_array)
   end
   negative_total
 end
+
+def map_to_no_change(source_array)
+  sourc
+end
